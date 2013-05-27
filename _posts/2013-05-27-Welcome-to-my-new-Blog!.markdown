@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2013-05-27-Welcome-to-my-new-Blog!"
+title: "Welcome to my New Blog!"
 year: 2013
 month: 5
 day: 27
