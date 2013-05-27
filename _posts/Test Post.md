@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "DRAFT: Test Post"
+title: "Test Post"
 ---
