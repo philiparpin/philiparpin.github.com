@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test Post
+title: Philip
 category: Coding
 tags: fuelux jquery bootstrap requirejs grunt amd 
 year: 2012
