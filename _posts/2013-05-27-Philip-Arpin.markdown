@@ -19,7 +19,7 @@ published: true
 		<div id="disqus_thread"></div>
 		<script type="text/javascript">
 			/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-			var disqus_shortname = 'philipsblog'; // required: replace example with your forum shortname
+			var disqus_shortname = 'philipblog'; // required: replace example with your forum shortname
 			var disqus_identifier = '/blog/Philip-Arpin';
 			var disqus_url = '/blog/Philip-Arpin';
 			
