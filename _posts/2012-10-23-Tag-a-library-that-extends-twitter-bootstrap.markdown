@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FuelUX a library that extends Twitter Bootstrap
+title: Tester
 category: Coding
 tags: fuelux jquery bootstrap requirejs grunt amd 
 year: 2012
