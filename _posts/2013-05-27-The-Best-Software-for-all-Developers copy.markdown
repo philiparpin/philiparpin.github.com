@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Welcome to my New Blog!"
+title: "The Best Software for all Developers."
 year: 2013
 month: 5
 day: 27
 published: true
-summary: A summary of my new blog and what I plan to do with it.
+summary: Here is a list of all the software I own, and my personal favorites.
 image: post_one.png
 ---
 
